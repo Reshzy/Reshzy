@@ -14,14 +14,14 @@
 ---
 
 ## 🚀 About Me
-
-I'm a passionate developer who loves crafting elegant solutions to complex problems. Currently specializing in **Laravel 12** and **MySQL**, I focus on writing clean, maintainable code that creates meaningful user experiences. Every project is an opportunity to learn something new and push the boundaries of what's possible.
+I’m a developer specialized in Laravel 12 and MySQL. I enjoy creating applications, web-based systems, and learning something new with every project.
 
 > *"The best way to predict the future is to build it."*
 
 ## 🛠️ Tech Stack
 
 ### **Backend & Languages**
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -48,9 +48,9 @@ I'm a passionate developer who loves crafting elegant solutions to complex probl
 
 
 <div align="center">
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reshzy&" alt="reshzy" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reshzy&" alt="reshzy" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=reshzy&show_icons=true&locale=en&theme=nord" alt="reshzy" height="170" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=reshzy&show_icons=true&locale=en&theme=nord" alt="reshzy" height="170" /></p>  -->
   
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=reshzy&theme=nord&column=4&margin-w=15&margin-h=15)](https://github.com/reshzy)
 
@@ -86,6 +86,8 @@ If you find my projects helpful or just want to support my coffee addiction, con
 <div align="center">
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+<br>
+*"Try and try until you die, and when you die atleast you try" – Reshzy, 2025*
 
 **Thanks for visiting! Happy coding! 🚀**
 
