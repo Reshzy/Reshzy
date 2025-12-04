@@ -77,7 +77,7 @@ I’m a developer specialized in Laravel 12 and MySQL. I enjoy creating applicat
 
 If you find my projects helpful or just want to support my coffee addiction, consider buying me a coffee! ☕
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Reshzy)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/reshzy581k)
 
 </div>
 
